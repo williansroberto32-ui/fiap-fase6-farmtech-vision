@@ -10,7 +10,7 @@ Assista à demonstração do projeto FarmTech Vision, apresentando YOLO, CNN e o
 
 O notebook original contém os códigos, treinamentos, gráficos, testes e análises das Entregas 1 e 2 do projeto FarmTech Vision.
 
-▶️ Abrir notebook completo no Google Colab (https://colab.research.google.com/drive/1-IoLx01Z3ldkd7XAfPfp8b4Ct-jAo6Tk?usp=sharing)
+[▶️ Abrir notebook completo no Google Colab](https://colab.research.google.com/drive/1-IoLx01Z3ldkd7XAfPfp8b4Ct-jAo6Tk?usp=sharing)
 
 Observação: o arquivo original também está disponível neste repositório, mas, devido ao seu tamanho, pode não ser exibido diretamente pelo GitHub.
 
