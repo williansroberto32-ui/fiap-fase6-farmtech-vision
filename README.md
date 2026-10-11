@@ -6,6 +6,14 @@ Assista à demonstração do projeto FarmTech Vision, apresentando YOLO, CNN e o
 
 [▶️ Assistir ao vídeo no YouTube](https://youtu.be/KAMchSnCNTw)
 
+💻 Notebook completo no Google Colab
+
+O notebook original contém os códigos, treinamentos, gráficos, testes e análises das Entregas 1 e 2 do projeto FarmTech Vision.
+
+"▶️ Abrir notebook completo no Google Colab" (https://colab.research.google.com/drive/1-IoLx01Z3ldkd7XAfPfp8b4Ct-jAo6Tk?usp=sharing)
+
+Observação: o arquivo original também está disponível neste repositório, mas, devido ao seu tamanho, pode não ser exibido diretamente pelo GitHub.
+
 🎯 Sobre o projeto
 
 O FarmTech Vision é um projeto acadêmico desenvolvido no curso de Tecnólogo em Inteligência Artificial da FIAP, com foco em Visão Computacional e aplicação de modelos de Inteligência Artificial para identificação de produtos em imagens.
