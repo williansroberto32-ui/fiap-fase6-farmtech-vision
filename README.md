@@ -131,3 +131,16 @@ FIAP — Tecnólogo em Inteligência Artificial
 Projeto acadêmico — Fase 6
 
 FarmTech Vision | Inteligência Artificial e Visão Computacional
+
+👥 Integrantes do Grupo — FIAP
+
+Integrante| RM
+Maurício| 571019
+Fernando| 569974
+Willians| 573314
+Matheus| 572385
+Felipe| 564288
+
+Curso: Tecnólogo em Inteligência Artificial
+Instituição: FIAP
+Projeto: FarmTech Vision — Fase 6
