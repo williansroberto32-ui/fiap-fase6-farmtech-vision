@@ -1,5 +1,11 @@
 🌱 FarmTech Vision | FIAP — Fase 6
 
+## 🎥 Vídeo de apresentação
+
+Assista à demonstração do projeto FarmTech Vision, apresentando YOLO, CNN e os resultados obtidos:
+
+[▶️ Assistir ao vídeo no YouTube](https://youtu.be/KAMchSnCNTw)
+
 🎯 Sobre o projeto
 
 O FarmTech Vision é um projeto acadêmico desenvolvido no curso de Tecnólogo em Inteligência Artificial da FIAP, com foco em Visão Computacional e aplicação de modelos de Inteligência Artificial para identificação de produtos em imagens.
