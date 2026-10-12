@@ -14,6 +14,12 @@ O notebook original contém os códigos, treinamentos, gráficos, testes e anál
 
 Observação: o arquivo original também está disponível neste repositório, mas, devido ao seu tamanho, pode não ser exibido diretamente pelo GitHub.
 
+**Dataset e resultados — Google Drive**
+
+[📂 Acessar dataset e resultados do FarmTech Vision](https://drive.google.com/drive/folders/1lw_90JsEhRCuIaEEDhY7vsptgCgL0i8n?usp=sharing)
+
+A pasta compartilhada contém as imagens, anotações e resultados dos experimentos realizados nas Entregas 1 e 2.
+
 🎯 Sobre o projeto
 
 O FarmTech Vision é um projeto acadêmico desenvolvido no curso de Tecnólogo em Inteligência Artificial da FIAP, com foco em Visão Computacional e aplicação de modelos de Inteligência Artificial para identificação de produtos em imagens.
